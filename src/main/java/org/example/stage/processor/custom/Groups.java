@@ -24,7 +24,7 @@ import com.streamsets.pipeline.api.Label;
 
 @GenerateResourceBundle
 public enum Groups implements Label {
-  HOTEL_DATA("Hotel Data"),
+  HOTEL_DP_GROUP("HOTEL_DP_GROUP"),
   ;
 
   private final String label;
